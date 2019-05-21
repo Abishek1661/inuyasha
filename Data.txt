@@ -1,0 +1,121 @@
+
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] kickoutFromGroup() missing 1 required positional argument: 'midlist'
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] kickoutFromGroup() missing 1 required positional argument: 'midlist'
+[<module 'time' (built-in)>] kickoutFromGroup() missing 1 required positional argument: 'midlist'
+[<module 'time' (built-in)>] kickoutFromGroup() missing 1 required positional argument: 'midlist'
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] name 'opp3' is not defined
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] kickoutFromGroup() missing 1 required positional argument: 'midlist'
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
